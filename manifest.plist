@@ -19,7 +19,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.ios.xxx</string>
+<string>com.tencent.MGCIOS</string>
 <key>bundle-version</key>
 <string>1.1.0</string>
 <key>kind</key>
